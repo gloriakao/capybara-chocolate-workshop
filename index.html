@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#75452f" />
+    <meta name="description" content="兩位玩家輪流設計巧克力，挑戰相似形與比例。" />
+    <title>水豚巧克力工坊</title>
+  </head>
+  <body>
+    <main id="game-container" aria-label="遊戲畫面"></main>
+    <dialog id="student-id-dialog" aria-labelledby="student-id-title">
+      <form id="student-id-form">
+        <h1 id="student-id-title">開始前輸入學號</h1>
+        <p>兩位玩家各輸入一次，遊戲不需要登入 Google。學號、作答與提示使用情形會送到教師的課程學習紀錄試算表。</p>
+        <label for="player-one-id">玩家一學號</label>
+        <input id="player-one-id" name="playerOneId" type="text" maxlength="32" autocomplete="off" required />
+        <label for="player-two-id">玩家二學號</label>
+        <input id="player-two-id" name="playerTwoId" type="text" maxlength="32" autocomplete="off" required />
+        <p id="student-id-error" role="alert" aria-live="polite"></p>
+        <div class="student-id-actions">
+          <button type="button" id="cancel-student-ids">取消</button>
+          <button type="submit">開始遊戲</button>
+        </div>
+      </form>
+    </dialog>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

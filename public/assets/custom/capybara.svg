@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="戴著廚師帽的可愛水豚店長">
+  <ellipse cx="182" cy="326" rx="119" ry="18" fill="#6c432f" opacity=".14"/>
+  <path d="M83 270c0-55 33-91 96-91s98 35 98 91v39H83z" fill="#9b5e39"/>
+  <path d="M117 286c23-18 46-27 66-27s44 9 67 27v34H117z" fill="#89b77e"/>
+  <path d="M155 264h56l-28 32z" fill="#e9f1d4"/>
+  <ellipse cx="119" cy="148" rx="25" ry="30" fill="#874e32"/>
+  <ellipse cx="242" cy="148" rx="25" ry="30" fill="#874e32"/>
+  <ellipse cx="180" cy="175" rx="91" ry="89" fill="#a9653d"/>
+  <ellipse cx="181" cy="204" rx="65" ry="42" fill="#e0b887"/>
+  <ellipse cx="155" cy="171" rx="7" ry="9" fill="#39261e"/>
+  <ellipse cx="207" cy="171" rx="7" ry="9" fill="#39261e"/>
+  <ellipse cx="163" cy="170" rx="2" ry="3" fill="#fff7e7"/>
+  <ellipse cx="215" cy="170" rx="2" ry="3" fill="#fff7e7"/>
+  <ellipse cx="165" cy="204" rx="5" ry="4" fill="#523323"/>
+  <ellipse cx="197" cy="204" rx="5" ry="4" fill="#523323"/>
+  <path d="M176 221q8 8 16 0" fill="none" stroke="#75452f" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="126" cy="207" rx="13" ry="7" fill="#e88b83" opacity=".65"/>
+  <ellipse cx="235" cy="207" rx="13" ry="7" fill="#e88b83" opacity=".65"/>
+  <path d="M132 96c0-13 11-24 25-24 6-18 23-30 43-27 16 2 28 13 32 28 12 1 21 11 21 23v15H132z" fill="#fffaf0" stroke="#d6c7ad" stroke-width="4"/>
+  <path d="M122 109h140v21H122z" fill="#fffaf0" stroke="#d6c7ad" stroke-width="4"/>
+  <path d="M170 111c5 8 15 8 20 0" fill="none" stroke="#dfaa56" stroke-width="5" stroke-linecap="round"/>
+  <path d="M93 251c11-12 27-18 43-18m132 18c-11-12-27-18-43-18" fill="none" stroke="#874e32" stroke-width="7" stroke-linecap="round"/>
+  <path d="M273 251c10-5 17-4 23 2-7 5-14 7-23 5" fill="#a9653d"/>
+  <circle cx="282" cy="253" r="2.7" fill="#523323"/>
+  <path d="M147 309h68" stroke="#628b5c" stroke-width="4" stroke-linecap="round"/>
+</svg>
